@@ -12,3 +12,7 @@ Submitting a solution
 =====================
 
 [Submit a solution](https://xng1lsio92y.typeform.com/to/xB0PUeAy)
+
+# Writeups
+
+https://hackmd.io/@liquan/S19Kne096
