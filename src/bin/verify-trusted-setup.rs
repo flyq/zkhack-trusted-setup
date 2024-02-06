@@ -17,10 +17,10 @@ fn main() {
     // println!("G2 x: {}, y: {}", _ts2[0].x., _ts2[0].y);
     // println!("s*G2 x: {}, y: {}", _ts2[1].x, _ts2[1].y);
 
-    let s_origin = Fr::from_str("62308043734996521086909071585406").unwrap();
-    let n_1n_2 = Fr::from_str("128602524809671824928355010578973").unwrap();
+    let s_origin = Fr::from_str("5592216610550884993006174526481245").unwrap();
+    let n_1n_2 = Fr::from_str("38452154918091875653578148163112927").unwrap();
 
-    let mut i = 1u64;
+    let mut i = 1000u64;
     let mut s;
     loop {
         s = s_origin + n_1n_2 * Fr::from(i);
